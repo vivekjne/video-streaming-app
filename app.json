@@ -1,0 +1,17 @@
+{
+  "name": "videoStreamingApp",
+  "displayName": "videoStreamingApp",
+  "expo": {
+    "name": "videoStreamingApp",
+    "slug": "videoStreamingApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
